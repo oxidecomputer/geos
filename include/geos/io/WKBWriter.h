@@ -24,6 +24,7 @@
 
 #include <geos/util/Machine.h> // for getMachineByteOrder
 #include <iosfwd>
+#include <cstddef>
 
 // Forward declarations
 namespace geos {
